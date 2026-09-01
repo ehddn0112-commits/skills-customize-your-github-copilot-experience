@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "personal-portfolio-website",
+      "title": "Personal Portfolio Website",
+      "description": "Build a one-page personal portfolio using HTML structure and CSS styling.",
+      "path": "assignments/personal-portfolio-website",
+      "dueDate": "2026-09-08",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.html",
+          "type": "html"
+        }
+      ]
     }
   ]
 }
